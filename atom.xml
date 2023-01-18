@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://imoviedrive.github.io</id>
+    <title>全影视界</title>
+    <updated>2023-01-18T04:47:17.420Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <link rel="alternate" href="https://imoviedrive.github.io"/>
+    <link rel="self" href="https://imoviedrive.github.io/atom.xml"/>
+    <subtitle>这里有最全的你想看的影视</subtitle>
+    <logo>https://imoviedrive.github.io/images/avatar.png</logo>
+    <icon>https://imoviedrive.github.io/favicon.ico</icon>
+    <rights>All rights reserved 2023, 全影视界</rights>
+    <entry>
+        <title type="html"><![CDATA[这里是全影视界]]></title>
+        <id>https://imoviedrive.github.io/post/zhe-li-shi-quan-ying-shi-jie/</id>
+        <link href="https://imoviedrive.github.io/post/zhe-li-shi-quan-ying-shi-jie/">
+        </link>
+        <updated>2023-01-17T18:08:30.000Z</updated>
+        <content type="html"><![CDATA[<p>欢迎来到全影视界，感谢关注</p>
+]]></content>
+    </entry>
+</feed>
